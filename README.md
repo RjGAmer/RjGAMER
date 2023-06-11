@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shayanjoardar2@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://sanjay-mohan-singh.onrender.com)**
+- 🔭 Know more about me **[Portfolio](https://shayanjoardarportfolio.netlify.app/)**
 
 ## 🌐 Connect with me::
 
