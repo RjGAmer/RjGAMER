@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shayanjoardar2@gmail.com**
 
-- 🔭 Know more about me **[Portfolio]((https://rjgamer.github.io/shayanjoardarportfolio2026/))**
+- 🔭 Know more about me **[Portfolio](https://rjgamer.github.io/shayanjoardarportfolio2026/)**
 
 ## 🌐 Connect with me::
 
