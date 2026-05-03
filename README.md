@@ -3,7 +3,7 @@
 <p align="center">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F72C0F&width=435&lines=Hello%F0%9F%91%8B%2C++I'm+Shayan+Joardar;A+passionate+MERN+developer" alt="Typing SVG" /></p>
 
-<h3 align="center">A passionate Full Stack developer from West Bengal</h3>
+<h3 align="center">A passionate .Net Developer from West Bengal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjgamer&label=Profile%20views&color=0e75b6&style=flat" alt="rjgamer"/> </p>
 
