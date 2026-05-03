@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/shayanjoardar?style=social"></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently Working *Software Developer**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT && REACT**
+- 💬 Ask me about **c#,MVC,Selenium,Playwrigt,Claude,XAML**
 
 - 📫 How to reach me **shayanjoardar2@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://shayanjoardarportfolio.netlify.app/)**
+- 🔭 Know more about me **[Portfolio]((https://rjgamer.github.io/shayanjoardarportfolio2026/))**
 
 ## 🌐 Connect with me::
 
